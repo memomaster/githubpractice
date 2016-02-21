@@ -4,3 +4,6 @@ Wow can you use the staging area to make sure you have one commit per logical ch
 sdsadasdasda
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 asdasdasdprprprp
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+blablabla
